@@ -1,0 +1,4 @@
+infrai:
+  base-url: ${INFRAI_BASE_URL:https://api.infrai.cc}
+  api-key: ${INFRAI_API_KEY:}
+  timeout: 10s

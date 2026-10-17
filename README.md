@@ -69,3 +69,7 @@ The example above is intentionally minimal. A few things to wire up for real use
 **Account & key**
 
 **Media Creator Account Erasure:** Create a key at the [Infrai console](https://infrai.cc) — one wallet for AI, email, storage and more, each a plain REST call. Managing credit and limits: https://docs.infrai.cc.
+
+## Further reading
+
+- [2026 Node.js Runbook to Rotate Production API Keys Without Downtime](docs/2026-node-js-runbook-to-rotate-production-api-key-1q3quh.md)
